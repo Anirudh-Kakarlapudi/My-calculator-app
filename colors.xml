@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474f</color><!--using material blue grey 800 color for color primary -->
+    <color name="colorPrimaryDark">#37474f</color><!--using material blue grey 800 color for color primary dark-->
+    <color name="colorAccent">#ff4081</color><!--using material pink accent 200 color for color accent-->
+    <color name="colorOper">#5c6bc0</color><!--using  material indigo 400 color for actions-->
+    <color name="colorNum">#37474f</color><!--using material blue grey 800 color for numbers-->
+    <color name="colorRes">#757575</color><!--using material grey color for result-->
+</resources>
